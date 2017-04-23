@@ -1,0 +1,2 @@
+# pemula
+test pertama github
